@@ -1,0 +1,1 @@
+Mess around project for practising lambda expressions and other java 8 features.
